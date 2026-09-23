@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git to show commit history, branch out to try new code, and go back to previous branches to make changes to the original code. This is useful for code that is collaborated and modified upon often.
+In this class Git could be useful to show the process in which students made commits to code overtime, as well as for group projects where students need to collaborate on code.
